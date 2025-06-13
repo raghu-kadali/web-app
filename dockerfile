@@ -1,0 +1,2 @@
+ubuntu: nginx
+x y
